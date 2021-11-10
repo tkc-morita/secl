@@ -3,7 +3,7 @@ This repository implements the estimation of context dependency in birdsong base
 
 ## Data preparation
 
-Data need to be formatted in a csv file that at least containing:
+Data need to be formatted in a csv file that at least contains:
 
 | sequence_id | time_id | value | individual |
 | ---         | ---     | ---   | ---        |
