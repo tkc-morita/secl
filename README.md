@@ -1,5 +1,5 @@
 # Context dependency estimation based on Transformer language modeling
-This repository implements the estimation of context dependency in birdsong based on Transformer language modeling, explored in [Morita et al. (2020)](https://doi.org/10.1101/2020.05.09.083907).
+This repository implements the estimation of context dependency in birdsong based on Transformer language modeling, explored in Morita et al. (To appear in PLOS Comp. Biol., [preprinted here](https://doi.org/10.1101/2020.05.09.083907)).
 
 ## Data preparation
 
